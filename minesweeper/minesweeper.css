@@ -1,0 +1,37 @@
+.tile {
+  /*width: 12px;
+  height: 12px;
+  border: 1px black outset;
+  font-size: 10px;*/
+
+  height: 20px;
+  width: 20px;
+  background: lightgray;
+  float: left;
+  border-style: outset;
+  border-top-style: outset;
+  border-right-style: outset;
+  border-bottom-style: outset;
+  border-left-style: outset;
+  border-width: 2px;
+  border-top-width: 2px;
+  border-right-width: 2px;
+  border-bottom-width: 2px;
+  border-left-width: 2px;
+  line-height: 20px;
+  padding-left: 3px;
+  font-size: 14px;
+  font-weight: bold;
+  position: relative;
+  text-align: center;
+
+}
+
+.row {
+  width: 265px;
+  margin: 0 auto;
+}
+
+div {
+  display: block;
+}
